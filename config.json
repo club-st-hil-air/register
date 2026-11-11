@@ -1,0 +1,9 @@
+{
+  "apiUrl": "https://f7zpb7m75mykgmdt5hxc6hrrx40aciic.lambda-url.eu-west-3.on.aws/",
+  "minPrice": 50,
+  "priceStep": 10,
+  "openFrom": "",
+  "openUntil": "",
+  "accessCodeEnabled": true,
+  "links": {}
+}
