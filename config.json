@@ -1,0 +1,15 @@
+{
+  "apiUrl": "https://f7zpb7m75mykgmdt5hxc6hrrx40aciic.lambda-url.eu-west-3.on.aws/",
+  "minPrice": 50,
+  "priceStep": 10,
+  "openFrom": "",
+  "openUntil": "",
+  "accessCodeEnabled": true,
+  "links": {
+    "terms": {
+      "fr": "https://clubsthilair.wordpress.com/wp-content/uploads/2026/08/2026-cgv-stand-occasion-fr.pdf",
+      "en": "https://clubsthilair.wordpress.com/wp-content/uploads/2026/08/2026-cgv-stand-occasion-en.pdf"
+    },
+    "wingshopContact": "https://www.wingshop.fr/"
+  }
+}
